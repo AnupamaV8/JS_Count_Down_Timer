@@ -5,8 +5,8 @@
 body {
   background-color: gainsboro;
   font-size: large;
-  gap: 70px;
   margin: 20px;
+  padding: 200px 0;
   text-align: center;
   align-items: center;
 }
